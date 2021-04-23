@@ -6,7 +6,7 @@
 
 ```
 git clone https://github.com/BarisTeksin/Tez-Denetleme.git
-cd InstaImgDownload
+cd Tez-Denetleme
 ```
 
 2. pip install
